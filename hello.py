@@ -3,4 +3,9 @@ print(2+5)
 a = 5 
 b = 3 
 result= a + b
-print("the sum of", a, "and", b, "is", result)
+name='artur'
+items=["bananna", "apples", "oranges"]
+print("the sum of", a, "and", b, "is", result) 
+print(type(a))
+print(type(name))
+print(type(items))
